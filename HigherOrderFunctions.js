@@ -1,3 +1,7 @@
+//////////////////////////////////////////////////////
+// https://github.com/patrickford/saturday-practice //
+//////////////////////////////////////////////////////
+
 function each(collection, callback) {
   if (Array.isArray(collection)) {
     for (var i = 0; i < collection.length; i++) {
